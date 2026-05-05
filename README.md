@@ -16,4 +16,3 @@ Repository Contents
 
 • notebooks/04_mongodb_development.ipynb
 — NoSQL database implementation using MongoDB Atlas, including document structure design, CRUD operations, aggregation pipelines, and query optimisation techniques
-## 📂 Repository Structure
